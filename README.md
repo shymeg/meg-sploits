@@ -8,4 +8,4 @@ Here are the exploits that I've found:
 
 # **PATCHED**
 
-Mastery Overflow - allowed you to wrap around mastery points to negarive values causing insta 7 mastery level on all champions. Patched by riot
+Mastery Overflow - allowed you to wrap around mastery points to negative values causing insta 7 mastery level on all champions. Patched by Riot
